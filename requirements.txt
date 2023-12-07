@@ -11,3 +11,9 @@ polars
 numpy
 plotly
 pandas
+nbformat
+pyarrow
+matplotlib
+seaborn
+scikit-learn 
+imblearn
